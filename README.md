@@ -17,3 +17,6 @@ The code for tesssellation in 3D is almost the same as in 2D but just adding an 
 Example:
 
 ![image](https://user-images.githubusercontent.com/26636053/156364779-72fc0930-7ed1-46c8-83fb-4a78bb2cfd40.png)
+
+### Citations
+CY Y (2022). vtkwrite : Exports various 2D/3D data to ParaView in VTK file format (https://github.com/joe-of-all-trades/vtkwrite), GitHub. Retrieved March 1, 2022.
