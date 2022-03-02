@@ -13,3 +13,7 @@ Tessellation after adding borders and rounding the corners:
 
 ### 3D Tessellation
 The code for tesssellation in 3D is almost the same as in 2D but just adding an extra spatial dimension. The code cannot round the corners of the grains for now, it can just add borders to them.
+
+Example:
+
+![image](https://user-images.githubusercontent.com/26636053/156364779-72fc0930-7ed1-46c8-83fb-4a78bb2cfd40.png)
